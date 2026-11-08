@@ -1,7 +1,7 @@
 # Digital Forensics & Cyber Security Bootcamp — Day 2 Assignment
 ## Network, Port and Vulnerability Scanning
 
-**Student:** [Your Name]  
+**Student:** Wash Dil Khan  
 **Course:** Digital Forensics & Cyber Security Bootcamp  
 **Assignment:** Day 2 — Scanning & Vulnerability Assessment  
 **Target:** Metasploitable 2  
